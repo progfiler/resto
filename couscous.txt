@@ -1,4 +1,5 @@
-semoule
+semoule combien de grain ?
 viande
-sauce
+sauces
+legumes
 servez chaud
