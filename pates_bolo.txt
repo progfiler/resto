@@ -1,6 +1,4 @@
 Pates bolo
-
 - Pates
 - Sauces tomates
-- Viande
-+ oeuf
+- boulette de Viande
