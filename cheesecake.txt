@@ -3,3 +3,4 @@ fromage
 beurre 
 sucre
 beaucoup d'amour
++ fraises
